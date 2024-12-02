@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+#MacOS
+.DS_Store
+
+#Custom
+/Credit_Risk/report-template.md
+
 # Distribution / packaging
 .Python
 build/
